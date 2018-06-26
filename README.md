@@ -57,3 +57,7 @@ app.get('/auth/globus/callback',
     res.redirect('/');
   });
   ```
+ 
+## Example
+
+Developers using the popular [Express](http://expressjs.com/) web framework can refer to an [example](https://github.com/OpenNeuroOrg/passport-globus/blob/master/example/index.js) as a starting point for their own web applications.
