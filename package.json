@@ -1,14 +1,14 @@
 {
-  "name": "passport-orcid",
-  "version": "0.0.3",
-  "description": "Passport strategy for authentication with ORCID (orcid.org)",
+  "name": "passport-globus",
+  "version": "0.0.1",
+  "description": "Passport strategy for authentication with Globus (globus.org)",
   "main": "lib",
   "files": [
     "lib"
   ],
-  "author": "Collaborative Knowledge Foundation",
+  "author": "OpenNeuro Project",
   "license": "MIT",
-  "repository": "hubgit/passport-orcid",
+  "repository": "OpenNeuroOrg/passport-globus",
   "eslintConfig": {
     "extends": "standard",
     "env": {
